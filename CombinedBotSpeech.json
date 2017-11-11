@@ -999,5 +999,29 @@
       "монойд"
     ],
     "Percentage": 30
+  },
+  {
+    "Answers": [
+      "почитай Маерса а? ну одна тоненькая книжка",
+      ":beaver_r: rvalue"
+    ],
+    "Triggers": [
+      "rvalue",
+      "r-value",
+      "r value"
+    ],
+    "Percentage": 66
+  },
+  {
+    "Answers": [
+      "почитай Маерса а? ну одна тоненькая книжка",
+      "lvalue :beaver:"
+    ],
+    "Triggers": [
+      "lvalue",
+      "l value",
+      "l-value"
+    ],
+    "Percentage": 66
   }
 ]

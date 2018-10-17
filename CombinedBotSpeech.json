@@ -1274,10 +1274,13 @@ necrys рекомендует: цианид"
     ],
     "Triggers": [
       "enduro 2d",
+      "enduro-2d",
+      "enduro_2d",
       "enduro2d",
       "ендуро 2д",
-      "эндуро 2д"
+      "эндуро 2д",
+      "e2d"
     ],
-    "Percentage": 4
+    "Percentage": 25
   }
 ]

@@ -1465,5 +1465,16 @@ necrys рекомендует: цианид"
       "стрипклуба"
     ],
     "Percentage": 50
+  },
+  {
+    "Answers": [
+      "видосы не нужны (c) MDS"
+    ],
+    "Triggers": [
+      "youtube",
+      "ютуб",
+      "coub"
+    ],
+    "Percentage": 75
   }
 ]

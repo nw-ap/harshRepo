@@ -1476,5 +1476,22 @@ necrys рекомендует: цианид"
       "coub"
     ],
     "Percentage": 75
+  },
+  {
+    "Answers": [
+      "супермен чтоли? интрузив лист мне запили! )
+https://github.com/enduro2d/enduro2d/blob/feature/intrusive_list/headers/enduro2d/utils/ilist.hpp"
+    ],
+    "Triggers": [
+      "супер",
+      "super",
+      "супермен",
+      "супермэн",
+      "superman",
+      "superhuman",
+      "сверхчеловек",
+      "интрузив лист"
+    ],
+    "Percentage": 85
   }
 ]

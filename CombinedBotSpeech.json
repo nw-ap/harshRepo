@@ -1493,5 +1493,20 @@ https://github.com/enduro2d/enduro2d/blob/feature/intrusive_list/headers/enduro2
       "интрузив лист"
     ],
     "Percentage": 85
+  },
+  {
+    "Answers": [
+      "для всего датасета это перемножение вероятностей что каждый конкретный семпл принадлежит правильному классу, и те веса лучше остальных, которые максимизируют эту вероятность."
+    ],
+    "Triggers": [
+      "AI",
+      "ИИ",
+      "машинное обучение",
+      "machine learning",
+      "likelihood",
+      "linear classification",
+      "линейный классификатор"
+    ],
+    "Percentage": 51
   }
 ]

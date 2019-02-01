@@ -1557,5 +1557,15 @@ https://github.com/enduro2d/enduro2d/blob/feature/intrusive_list/headers/enduro2
       "шафр"
     ],
     "Percentage": 2
+  },
+  {
+    "Answers": [
+      "чо чо чо?",
+      "а я не поняла, объясни ещё раз пжлст"
+    ],
+    "Triggers": [
+      "евпочя"
+    ],
+    "Percentage": 2
   }
 ]

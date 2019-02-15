@@ -1574,5 +1574,14 @@ github.com/enduro2d/enduro2d/blob/master/headers/enduro2d/utils/ilist.hpp"
       "евпочя"
     ],
     "Percentage": 2
+  },
+  {
+    "Answers": [
+      "https://gdru.slack.com/files/U04TWJD26/FG71N7STU/image.png"
+    ],
+    "Triggers": [
+      "некрус"
+    ],
+    "Percentage": 99
   }
 ]

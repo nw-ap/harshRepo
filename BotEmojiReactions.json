@@ -1,0 +1,61 @@
+[
+  {
+    "reaction_emoji": [
+      "flag-ua"
+    ],
+    "Triggers": [
+      "украина",
+      "ukraine"
+    ],
+    "Percentage": 75
+  },
+  {
+    "reaction_emoji": [
+      "dog",
+      "dog2"
+    ],
+    "Triggers": [
+      "пес",
+      "пёс",
+      "пёсик"
+    ],
+    "Percentage": 50
+  },
+  {
+    "reaction_emoji": [
+      "pirate_flag"
+    ],
+    "Triggers": [
+      "пират",
+      "перат"
+    ],
+    "Percentage": 50
+  },
+  {
+    "reaction_emoji": [
+      "sun_with_face"
+    ],
+    "Triggers": [
+      "отлично"
+    ],
+    "Percentage": 75
+  },
+  {
+    "reaction_emoji": [
+      "sun_with_face"
+    ],
+    "Triggers": [
+      "позитив"
+    ],
+    "Percentage": 100
+  },
+  {
+    "reaction_emoji": [
+      "hedgehog"
+    ],
+    "Triggers": [
+      "апрог"
+    ],
+    "Percentage": 90
+  }
+]

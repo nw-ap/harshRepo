@@ -1568,15 +1568,6 @@
   },
   {
     "Answers": [
-      "https://gdru.slack.com/files/U04TWJD26/FG71N7STU/image.png"
-    ],
-    "Triggers": [
-      "некрус!!"
-    ],
-    "Percentage": 99
-  },
-  {
-    "Answers": [
       "бенчмаркай сразу против обычного malloc"
     ],
     "Triggers": [
